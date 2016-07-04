@@ -5,4 +5,5 @@ rem mvn package
 
 java -jar target/my-logger-0.1.0.jar target/classes/com/wwsoft/logger/my.cat
 
+
 pause
